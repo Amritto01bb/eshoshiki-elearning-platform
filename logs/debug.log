@@ -1,0 +1,8 @@
+DEBUG 2023-08-27 08:07:07,668 base Asynchronous middleware Eshoshikhi.middleware.PreventGoogleOauthMiddleware adapted.
+DEBUG 2023-08-27 08:07:08,677 autoreload File C:\Users\Asif\PycharmProjects\CSE412\Eshoshikhi\venv\Lib\site-packages\django\db\models\sql\compiler.py first seen with mtime 1692853662.4617703
+DEBUG 2023-08-27 08:07:08,684 autoreload File C:\Users\Asif\PycharmProjects\CSE412\Eshoshikhi\venv\Lib\site-packages\django\contrib\sessions\backends\db.py first seen with mtime 1692853661.7572372
+DEBUG 2023-08-27 08:07:08,692 autoreload File C:\Users\Asif\PycharmProjects\CSE412\Eshoshikhi\Eshoshikhi\middleware.py first seen with mtime 1692680910.096464
+DEBUG 2023-08-27 08:07:08,699 autoreload File C:\Users\Asif\PycharmProjects\CSE412\Eshoshikhi\Eshoshikhi\asgi.py first seen with mtime 1692860006.8597095
+DEBUG 2023-08-27 08:07:08,705 autoreload File C:\Users\Asif\PycharmProjects\CSE412\Eshoshikhi\Eshoshikhi\production.py first seen with mtime 1692861646.328503
+DEBUG 2023-08-27 08:07:08,724 autoreload File C:\Users\Asif\PycharmProjects\CSE412\Eshoshikhi\venv\Lib\site-packages\django\middleware\clickjacking.py first seen with mtime 1692853662.5924072
+DEBUG 2023-08-27 08:07:08,730 autoreload File C:\Users\Asif\PycharmProjects\CSE412\Eshoshikhi\venv\Lib\site-packages\django\core\asgi.py first seen with mtime 1692853662.2662802
