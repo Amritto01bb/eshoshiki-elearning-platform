@@ -37,5 +37,3 @@ Others:
 6. It must have two-step authentication to increase the security.
 7. For security purposes, the database must be encrypted.
 
-
-![Picture1](https://github.com/Amritto01bb/eshoshiki-elearning-platform/assets/96563062/6a027a14-ccc5-4297-9086-9889a37f6d2c)
