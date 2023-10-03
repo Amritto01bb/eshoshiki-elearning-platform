@@ -37,3 +37,6 @@ Others:
 6. It must have two-step authentication to increase the security.
 7. For security purposes, the database must be encrypted.
 
+![www eshosikhi live_(Nest Hub Max)](https://github.com/Amritto01bb/eshoshiki-elearning-platform/assets/96563062/0467f9bd-33f6-40e3-bd16-5fad26884ff8)
+
+
